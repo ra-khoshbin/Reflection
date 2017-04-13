@@ -1,0 +1,4 @@
+> Waht happens when you initialize a repository? why you need to do that?
+
+It make .git file in directory to keep track of files in directory, becasue it's not there by itself.
+I should tell that I want to use version-control on this specific folder.
