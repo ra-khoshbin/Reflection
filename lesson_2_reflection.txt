@@ -21,3 +21,8 @@ they list changes made since one branch strated so it helps.
 
 you will have a to branches commit in one now on, because it is actually a 
 commit.
+
+> What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+it easy to merge branches automatic when changes had no confilict and when they have it is good that it marks confilict piont so we can decide what
+to d whit the that.
