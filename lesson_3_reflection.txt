@@ -1,1 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+I would have do that for every project but since it github is a public hub so I will use it for my open source projects.
