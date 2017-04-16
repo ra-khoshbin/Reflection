@@ -16,3 +16,8 @@ for example when i want to make an experimental upgrade or add a new language, t
 > How do the diagrams help you  visualize the branch structure?
 
 they list changes made since one branch strated so it helps.
+
+> What is the result of merging two branches together? why do we represent it in the diagram the way we do?
+
+you will have a to branches commit in one now on, because it is actually a 
+commit.
