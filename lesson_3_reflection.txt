@@ -12,3 +12,7 @@ forks are copy's from and existing repository on github to your own gtihub accou
 clones are copy's from repositories on your own device it can be copied from a public repository like github or your local computer.
 branches are new sessoin of commits in a repository.
 I use fork when I want to have copy of a repository and make my own changes on it, and use clone when I want to have a repository in my local machine and I use branches when I want do something on my local repository.
+
+> what is the benefit of having a copy of the last known state of the remote stored locally?
+
+you can track the changes on the remote since you made that copy, and with that you can see what kind of confilicts would happen if you want to push your changes up.
