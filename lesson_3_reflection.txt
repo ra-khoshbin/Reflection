@@ -20,3 +20,7 @@ you can track the changes on the remote since you made that copy, and with that 
 > How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use to work alone, I don't have any Idea.
+
+> When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+every time so yes it's more complicated but it's also safer when couple of peoples are working on a repository so nothing can be go wrong suddenly.
