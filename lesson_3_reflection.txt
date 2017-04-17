@@ -16,3 +16,7 @@ I use fork when I want to have copy of a repository and make my own changes on i
 > what is the benefit of having a copy of the last known state of the remote stored locally?
 
 you can track the changes on the remote since you made that copy, and with that you can see what kind of confilicts would happen if you want to push your changes up.
+
+> How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use to work alone, I don't have any Idea.
